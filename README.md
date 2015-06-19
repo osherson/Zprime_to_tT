@@ -8,4 +8,5 @@ Z' search with top and heavy top
   TemplateChecker checks the results of the above in the ttbar region
   TemplateCheckerHeavy checks how the new shapes perform in the heavy(er) top region.
 ## NT_ for non-top
+  One file: Takes the muon/elec data and some MC and computes the NumPass/NumFail linear fits which should apply to the signal region. 
 ## SR for signal region plotters
